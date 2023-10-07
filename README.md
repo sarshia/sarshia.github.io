@@ -1,4 +1,5 @@
 # Arshia Singhal
+![Picture](/Screen)
 Rice University, Houston, TX  &nbsp; | &nbsp;  Email: arshia@rice.edu
 
 ### About me
