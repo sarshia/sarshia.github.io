@@ -1,5 +1,5 @@
 # Arshia Singhal
-<img src="\headshot.jpg" width="250">
+<img src="\headshot.jpg" width="220">
 Rice University, Houston, TX  &nbsp; | &nbsp;  Email: arshia@rice.edu
 
 ### About me
