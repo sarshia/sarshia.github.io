@@ -1,14 +1,12 @@
 # Arshia Singhal
-<img src="\headshot.jpg" width="220">
+<img align="left" src="\headshot.jpg" alt="image" width="220">
 
-Rice University, Houston, TX
-
-Email: arshia@rice.edu
+Rice University, Houston, TX &nbsp; | &nbsp; Email: arshia@rice.edu
 
 ### About me
 I am a second-year PhD student in the Department of Computational Applied Mathematics and Operations Management at Rice University. My research is advised by [Dr. Beatrice Riviere](https://profiles.rice.edu/faculty/beatrice-riviere).
 
-### Reseach Interests
+### Research Interests
 Numerical partial differential equations, numerical analysis, scientific computing, computational biology
 
 ### Education
