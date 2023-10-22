@@ -41,6 +41,11 @@ Numerical partial differential equations, numerical analysis, scientific computi
 - **Texas Women in Mathematics Symposium**	Mar 2023
 - **CRA-WP Grad Cohort for Women**	Apr 2023
 - **IPAM Applied Mathematics skills Improvement for Graduate studies Advancement (AMIGAs)**	Jul 2023
+- **Rice University Research Training Group on Numerical Mathematics and Scientific Computing** Oct 2023
+  - Poster presentation: _Closed Loop Solute Transport in Blood Vessels_
 
 ### Service
 - **Vice President** Society for Industrial and Applied Mathematics, Rice University Student Chapter,	Aug 2023 – Present
+
+<sup><sub>Last Updated: Oct 2023</sub></sup>
+
