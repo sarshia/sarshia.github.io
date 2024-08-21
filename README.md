@@ -6,7 +6,7 @@ Rice University, Houston, TX
 Email: arshia@rice.edu
 
 ### About me
-I am a second-year PhD student in the Department of Computational Applied Mathematics and Operations Management at Rice University. My research is advised by [Dr. Beatrice Riviere](https://profiles.rice.edu/faculty/beatrice-riviere).
+I am a third-year PhD student in the Department of Computational Applied Mathematics and Operations Management at Rice University. My research is co-advised by [Dr. Beatrice Riviere](https://profiles.rice.edu/faculty/beatrice-riviere) and [Dr. Charles Puelz](https://profiles.rice.edu/faculty/beatrice-riviere).
 
 ### Research Interests
 Numerical partial differential equations, numerical analysis, scientific computing, computational biology
@@ -29,8 +29,10 @@ Numerical partial differential equations, numerical analysis, scientific computi
   - CMOR 335: Matrix Analysis
   - CMOR 336: Differential Equations
   - CMOR 526: Finite Element Methods
+  - CMOR 523: Numerical Partial Differential Equations
 
 ### Professional Experience
+- **Computing Graduate Student Intern** Lawrence Livermore National Laboratory, Livermore, CA May 2024 - Aug. 2024
 - **Software Engineering Intern** JP Morgan Chase & Co., Chicago, IL	Jun 2022 – Aug 2022
 - **Technology Consulting Intern** PricewaterhouseCoopers, LLP, Atlanta, GA		Jun 2021 – Aug 2021
 - **Summer Intern** Tata Consultancy Services, Edison, NJ	Jul 2017 – Aug 2017
@@ -46,6 +48,7 @@ Numerical partial differential equations, numerical analysis, scientific computi
 
 ### Service
 - **Vice President** Society for Industrial and Applied Mathematics, Rice University Student Chapter,	Aug 2023 – Present
+- **Department Liaison** Association for Women in Mathematics, Rice University Student Chapter,	Aug 2023 – Present
 
-<sup><sub>Last Updated: Oct 2023</sub></sup>
+<sup><sub>Last Updated: Aug 2024</sub></sup>
 
