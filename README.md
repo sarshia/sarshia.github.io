@@ -53,7 +53,7 @@ Numerical partial differential equations, numerical analysis, scientific computi
 
 ### Service
 - **Vice President** Society for Industrial and Applied Mathematics, Rice University Student Chapter,	Aug 2023 – Present
-- **Department Liaison** Association for Women in Mathematics, Rice University Student Chapter,	Aug 2023 – Present
+- **Department Liaison** Association for Women in Mathematics, Rice University Student Chapter,	Apr 2024 – Present
 
 <sup><sub>Last Updated: Aug 2024</sub></sup>
 
