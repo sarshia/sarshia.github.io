@@ -30,6 +30,7 @@ Numerical partial differential equations, numerical analysis, scientific computi
   - CMOR 336: Differential Equations
   - CMOR 526: Finite Element Methods
   - CMOR 523: Numerical Partial Differential Equations
+  - CMOR 525: Numerical Linear Algebra
 
 ### Professional Experience
 - **Computing Graduate Student Intern** Lawrence Livermore National Laboratory, Livermore, CA May 2024 - Aug. 2024
@@ -52,8 +53,8 @@ Numerical partial differential equations, numerical analysis, scientific computi
   - Poster presentation: _Closed Loop Solute Transport in Blood Vessels_
 
 ### Service
-- **Vice President** Society for Industrial and Applied Mathematics, Rice University Student Chapter,	Aug 2023 – Present
+- **President, Vice President** Society for Industrial and Applied Mathematics, Rice University Student Chapter,	Aug 2023 – Present
 - **Department Liaison** Association for Women in Mathematics, Rice University Student Chapter,	Apr 2024 – Present
 
-<sup><sub>Last Updated: Aug 2024</sub></sup>
+<sup><sub>Last Updated: Sep 2024</sub></sup>
 
