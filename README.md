@@ -55,12 +55,19 @@ Numerical partial differential equations, numerical analysis, scientific computi
 - **SIAM Texas-Louisiana Sectional Meeting** Oct 2024
   - Talk: _Closed Loop Solute Transport in Blood Vessels and Organs_
 - **Modern Math Workshop** Oct 2024
-- **NDiSTEM** Nov 2024 
+- **NDiSTEM** Nov 2024
+- **Firedrake User and Developer Workshop** Feb 2025
+- **SIAM Conference on Computational Science and Engineering** Mar 2025
+  - Talk: _Closed Loop Solute Transport in Blood Vessels and Organs_
+- **Rice CMOR Graduate Student Seminar** Mar 2025
+  - Talk: _Closed Loop Solute Transport in Blood Vessels and Organs_
+- **Baylor College of Medicine Cardiovascular Research Institute Symposium** Apr 2025
+  - Poster presentation: _Closed Loop Solute Transport in Blood Vessels and Organs_
  
 
 ### Service
 - **President, Vice President** Society for Industrial and Applied Mathematics, Rice University Student Chapter,	Aug 2023 – Present
 - **Department Liaison** Association for Women in Mathematics, Rice University Student Chapter,	Apr 2024 – Present
 
-<sup><sub>Last Updated: Feb 2025</sub></sup>
+<sup><sub>Last Updated: Apr 2025</sub></sup>
 
