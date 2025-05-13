@@ -14,6 +14,8 @@ Numerical partial differential equations, numerical analysis, scientific computi
 ### Education
 - **PhD** Computational Applied Mathematics and Operations Management, Rice University, Expected May 2027
 
+- **MA** Computational Applied Mathematics and Operations Management, Rice University, May 2025
+
 - **BS** Mathematics/Computer Science, Emory University, May 2022
 
   **BBA** Business Administration (_Finance, Information Systems and Operations Management, Analytic Consulting_) May 2022
