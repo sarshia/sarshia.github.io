@@ -44,7 +44,7 @@ Numerical partial differential equations, numerical analysis, scientific computi
 - **Texas Women in Mathematics Symposium**	Mar 2023
 - **CRA-WP Grad Cohort for Women**	Apr 2023
 - **IPAM Applied Mathematics skills Improvement for Graduate studies Advancement (AMIGAs)**	Jul 2023
-- **Rice University Research Training Group on Numerical Mathematics and Scientific Computing** Oct 2023
+- **Rice University Research Training Group (RTG) on Numerical Mathematics and Scientific Computing** Oct 2023
   - Poster presentation: _Closed Loop Solute Transport in Blood Vessels_
 - **SIAM TX-LA**	Nov 2023
   - Poster presentation: _Closed Loop Solute Transport in Blood Vessels_
@@ -52,7 +52,7 @@ Numerical partial differential equations, numerical analysis, scientific computi
 - **SIAM Annual Meeting** Jul 2024
   - Poster presentation: _Closed Loop Solute Transport in Blood Vessels_
 - **Heidelberg Laureate Forum** Sep 2024
-- **Rice University Research Training Group in Numerical Mathematics and Scientific Computing** Oct 2024
+- **Rice University RTG in Numerical Mathematics and Scientific Computing** Oct 2024
   - Talk: _Closed Loop Solute Transport in Blood Vessels and Organs_
 - **SIAM Texas-Louisiana Sectional Meeting** Oct 2024
   - Talk: _Closed Loop Solute Transport in Blood Vessels and Organs_
@@ -65,11 +65,13 @@ Numerical partial differential equations, numerical analysis, scientific computi
   - Talk: _Closed Loop Solute Transport in Blood Vessels and Organs_
 - **Baylor College of Medicine Cardiovascular Research Institute Symposium** Apr 2025
   - Poster presentation: _Closed Loop Solute Transport in Blood Vessels and Organs_
+- **Rice University RTG in Numerical Mathematics and Scientific Computing Ranch Retreat** Oct 2024
+  - Talk: _Closed Loop Solute Transport in Blood Vessels and Organs_
  
 
 ### Service
 - **President, Vice President** Society for Industrial and Applied Mathematics, Rice University Student Chapter,	Aug 2023 – Present
-- **Department Liaison** Association for Women in Mathematics, Rice University Student Chapter,	Apr 2024 – Present
+- **Outreach Chair, Department Liaison** Association for Women in Mathematics, Rice University Student Chapter,	Apr 2024 – Present
 
-<sup><sub>Last Updated: Apr 2025</sub></sup>
+<sup><sub>Last Updated: Jun 2025</sub></sup>
 
