@@ -35,7 +35,7 @@ Numerical partial differential equations, numerical analysis, scientific computi
   - BUS 365: Business Communication and Strategy
 
 ### Professional Experience
-- **Computing Graduate Student Intern** Lawrence Livermore National Laboratory, Livermore, CA May 2024 - Aug. 2024
+- **Computing Graduate Student Intern** Lawrence Livermore National Laboratory, Livermore, CA May 2024 - Aug 2024
 - **Software Engineering Intern** JP Morgan Chase & Co., Chicago, IL	Jun 2022 – Aug 2022
 - **Technology Consulting Intern** PricewaterhouseCoopers, LLP, Atlanta, GA		Jun 2021 – Aug 2021
 - **Communication Coach** Emory University, Aug 2020 – May 2022
