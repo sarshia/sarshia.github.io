@@ -71,9 +71,9 @@ Numerical partial differential equations, numerical analysis, scientific computi
 - **SIAM TX-LA**	Nov 2022
 
 ### Service
-- **President, Vice President** Society for Industrial and Applied Mathematics, Rice University Student Chapter,	Aug 2023 – Aug 2025
-- **Outreach Chair, Department Liaison** Association for Women in Mathematics, Rice University Student Chapter,	Apr 2024 – Present
 - **Department Liaison** Center for Teaching Excellence, Rice University, Jan 2025 - Present
+- **Outreach Chair, Department Liaison** Association for Women in Mathematics, Rice University Student Chapter,	Apr 2024 – Present
+- **President, Vice President** Society for Industrial and Applied Mathematics, Rice University Student Chapter,	Aug 2023 – Aug 2025
 
 <sup><sub>Last Updated: Aug 2025</sub></sup>
 
