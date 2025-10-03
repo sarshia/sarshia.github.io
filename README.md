@@ -42,6 +42,10 @@ Numerical partial differential equations, numerical analysis, scientific computi
 - **Summer Intern** Tata Consultancy Services, Edison, NJ	Jul 2017 – Aug 2017
 
 ### Conferences and Workshops
+- **Rice University RTG in Numerical Mathematics and Scientific Computing** Oct 2025
+  - Talk: _Numerical Modeling of Blood Flow and Dissection_
+- **SIAM Texas-Louisiana Sectional Meeting** Sep 2025
+  - Talk: _Closed Loop Solute Transport in Blood Vessels and Organs_
 - **Rice University RTG in Numerical Mathematics and Scientific Computing Ranch Retreat** May 2025
   - Talk: _Closed Loop Solute Transport in Blood Vessels and Organs_
 - **Baylor College of Medicine Cardiovascular Research Institute Symposium** Apr 2025
