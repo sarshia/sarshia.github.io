@@ -25,7 +25,12 @@ Numerical partial differential equations, numerical analysis, scientific computi
 - **Undergraduate Researcher** Emory University Department of Mathematics, Aug 2021 - May 2022
 
 ### Teaching Experience
-- **Teaching Assistant** Rice University, Aug 2025 - Present
+- **Graduate Certificate in Teaching and Learning** Rice University Center for Teaching Excellence, Aug 2024 - Present
+  - UNIV 500: Principles Of Effective College Teaching
+  - UNIV 501: Research On Teaching And Learning
+  - UNIV 502: Practicum In College Teaching
+  - UNIV 599: Teaching Portfolio
+- **Teaching Assistant** Rice University, Aug 2025 - Dec 2025
   - CMOR 304: Differential Equations in Science and Engineering
 - **Grader** Rice University,	Aug 2022 – Present
   - CMOR 335: Matrix Analysis
