@@ -84,5 +84,5 @@ Numerical partial differential equations, numerical analysis, scientific computi
 - **Outreach Chair, Department Liaison** Association for Women in Mathematics, Rice University Student Chapter,	Apr 2024 – Present
 - **President, Vice President** Society for Industrial and Applied Mathematics, Rice University Student Chapter,	Aug 2023 – Aug 2025
 
-<sup><sub>Last Updated: Aug 2025</sub></sup>
+<sup><sub>Last Updated: Mar 2026</sub></sup>
 
