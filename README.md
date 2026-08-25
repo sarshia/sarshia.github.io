@@ -6,7 +6,7 @@ Rice University, Houston, TX
 Email: arshia@rice.edu
 
 ### About me
-I am a fifth-year PhD student in the Department of Computational Applied Mathematics and Operations Management at Rice University. My research is co-advised by [Dr. Beatrice Riviere](https://profiles.rice.edu/faculty/beatrice-riviere) and [Dr. Charles Puelz](https://www.bcm.edu/people-search/charles-puelz-28795).
+I am a fourth-year PhD student in the Department of Computational Applied Mathematics and Operations Management at Rice University. My research is co-advised by [Dr. Beatrice Riviere](https://profiles.rice.edu/faculty/beatrice-riviere) and [Dr. Charles Puelz](https://www.bcm.edu/people-search/charles-puelz-28795).
 
 ### Research Interests
 Numerical partial differential equations, numerical analysis, scientific computing, computational biology
@@ -84,5 +84,5 @@ Numerical partial differential equations, numerical analysis, scientific computi
 - **Outreach Chair, Department Liaison** Association for Women in Mathematics, Rice University Student Chapter,	Apr 2024 – Present
 - **President, Vice President** Society for Industrial and Applied Mathematics, Rice University Student Chapter,	Aug 2023 – Aug 2025
 
-<sup><sub>Last Updated: Aug 2026</sub></sup>
+<sup><sub>Last Updated: Mar 2026</sub></sup>
 
