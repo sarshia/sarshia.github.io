@@ -28,7 +28,7 @@ Numerical partial differential equations, numerical analysis, scientific computi
 ### Teaching Experience
 - **Instructor of Record** Rice University, Houston, TX	Jun 2026 – Aug 2026
   - CMOR 304: Differential Equations for Science and Engineering
-- **Graduate Certificate in Teaching and Learning** Rice University Center for Teaching Excellence, Aug 2024 - Present
+- **Graduate Certificate in Teaching and Learning** Rice University Center for Teaching Excellence, Aug 2024 - May 2026
   - UNIV 500: Principles Of Effective College Teaching
   - UNIV 501: Research On Teaching And Learning
   - UNIV 502: Practicum In College Teaching
