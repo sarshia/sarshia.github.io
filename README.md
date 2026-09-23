@@ -12,7 +12,7 @@ I am a fifth-year PhD candidate in the Department of Computational Applied Mathe
 Numerical partial differential equations, numerical analysis, scientific computing, computational biology
 
 ### Education
-- **PhD** Computational Applied Mathematics and Operations Management, Rice University, Expected May 2027
+- **PhD** Computational Applied Mathematics and Operations Research, Rice University, Expected May 2027
 
 - **MA** Computational Applied Mathematics and Operations Management, Rice University, May 2025
 
